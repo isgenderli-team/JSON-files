@@ -1,15 +1,16 @@
-Regions = [
-	{ "name": "Africa", "code": "AF" },
-	{ "name": "North America", "code": "NA" },
-	{ "name": "Oceania", "code": "OC" },
-	{ "name": "Antarctica", "code": "AN" },
-	{ "name": "Asia", "code": "AS" },
-	{ "name": "Europe", "code": "EU" },
-	{ "name": "South America", "code": "SA" },
-];
-
-
-Countries = [
+{
+    "regions":[
+       { "name": "Africa", "code": "AF" },
+    	{ "name": "North America", "code": "NA" },
+    	{ "name": "Oceania", "code": "OC" },
+    	{ "name": "Antarctica", "code": "AN" },
+    	{ "name": "Asia", "code": "AS" },
+    	{ "name": "Europe", "code": "EU" },
+    	{ "name": "South America", "code": "SA" }
+        ],
+        
+    "countries":[
+        
 	{
 		"name": "Afghanistan",
 		"code": "AF",
@@ -22,9 +23,9 @@ Countries = [
 		},
 		"language": {
 			"code": "ps",
-			"name": "Pashto",
+			"name": "Pashto"
 		},
-		"flag": "https://restcountries.eu/data/afg.svg",
+		"flag": "https://restcountries.eu/data/afg.svg"
 	},
 	{
 		"name": "Åland Islands",
@@ -38,9 +39,9 @@ Countries = [
 		},
 		"language": {
 			"code": "sv",
-			"name": "Swedish",
+			"name": "Swedish"
 		},
-		"flag": "https://restcountries.eu/data/ala.svg",
+		"flag": "https://restcountries.eu/data/ala.svg"
 	},
 	{
 		"name": "Albania",
@@ -54,9 +55,9 @@ Countries = [
 		},
 		"language": {
 			"code": "sq",
-			"name": "Albanian",
+			"name": "Albanian"
 		},
-		"flag": "https://restcountries.eu/data/alb.svg",
+		"flag": "https://restcountries.eu/data/alb.svg"
 	},
 	{
 		"name": "Algeria",
@@ -70,9 +71,9 @@ Countries = [
 		},
 		"language": {
 			"code": "ar",
-			"name": "Arabic",
+			"name": "Arabic"
 		},
-		"flag": "https://restcountries.eu/data/dza.svg",
+		"flag": "https://restcountries.eu/data/dza.svg"
 	},
 	{
 		"name": "American Samoa",
@@ -86,9 +87,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/asm.svg",
+		"flag": "https://restcountries.eu/data/asm.svg"
 	},
 	{
 		"name": "Andorra",
@@ -102,9 +103,9 @@ Countries = [
 		},
 		"language": {
 			"code": "ca",
-			"name": "Catalan",
+			"name": "Catalan"
 		},
-		"flag": "https://restcountries.eu/data/and.svg",
+		"flag": "https://restcountries.eu/data/and.svg"
 	},
 	{
 		"name": "Angola",
@@ -118,9 +119,9 @@ Countries = [
 		},
 		"language": {
 			"code": "pt",
-			"name": "Portuguese",
+			"name": "Portuguese"
 		},
-		"flag": "https://restcountries.eu/data/ago.svg",
+		"flag": "https://restcountries.eu/data/ago.svg"
 	},
 	{
 		"name": "Anguilla",
@@ -134,9 +135,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/aia.svg",
+		"flag": "https://restcountries.eu/data/aia.svg"
 	},
 	{
 		"name": "Antigua and Barbuda",
@@ -150,9 +151,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/atg.svg",
+		"flag": "https://restcountries.eu/data/atg.svg"
 	},
 	{
 		"name": "Argentina",
@@ -166,9 +167,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/arg.svg",
+		"flag": "https://restcountries.eu/data/arg.svg"
 	},
 	{
 		"name": "Armenia",
@@ -182,9 +183,9 @@ Countries = [
 		},
 		"language": {
 			"code": "hy",
-			"name": "Armenian",
+			"name": "Armenian"
 		},
-		"flag": "https://restcountries.eu/data/arm.svg",
+		"flag": "https://restcountries.eu/data/arm.svg"
 	},
 	{
 		"name": "Aruba",
@@ -198,9 +199,9 @@ Countries = [
 		},
 		"language": {
 			"code": "nl",
-			"name": "Dutch",
+			"name": "Dutch"
 		},
-		"flag": "https://restcountries.eu/data/abw.svg",
+		"flag": "https://restcountries.eu/data/abw.svg"
 	},
 	{
 		"name": "Australia",
@@ -214,9 +215,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/aus.svg",
+		"flag": "https://restcountries.eu/data/aus.svg"
 	},
 	{
 		"name": "Austria",
@@ -230,9 +231,9 @@ Countries = [
 		},
 		"language": {
 			"code": "de",
-			"name": "German",
+			"name": "German"
 		},
-		"flag": "https://restcountries.eu/data/aut.svg",
+		"flag": "https://restcountries.eu/data/aut.svg"
 	},
 	{
 		"name": "Azerbaijan",
@@ -246,9 +247,9 @@ Countries = [
 		},
 		"language": {
 			"code": "az",
-			"name": "Azerbaijani",
+			"name": "Azerbaijani"
 		},
-		"flag": "https://restcountries.eu/data/aze.svg",
+		"flag": "https://restcountries.eu/data/aze.svg"
 	},
 	{
 		"name": "Bahamas",
@@ -262,9 +263,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/bhs.svg",
+		"flag": "https://restcountries.eu/data/bhs.svg"
 	},
 	{
 		"name": "Bahrain",
@@ -278,9 +279,9 @@ Countries = [
 		},
 		"language": {
 			"code": "ar",
-			"name": "Arabic",
+			"name": "Arabic"
 		},
-		"flag": "https://restcountries.eu/data/bhr.svg",
+		"flag": "https://restcountries.eu/data/bhr.svg"
 	},
 	{
 		"name": "Bangladesh",
@@ -294,9 +295,9 @@ Countries = [
 		},
 		"language": {
 			"code": "bn",
-			"name": "Bengali",
+			"name": "Bengali"
 		},
-		"flag": "https://restcountries.eu/data/bgd.svg",
+		"flag": "https://restcountries.eu/data/bgd.svg"
 	},
 	{
 		"name": "Barbados",
@@ -310,9 +311,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/brb.svg",
+		"flag": "https://restcountries.eu/data/brb.svg"
 	},
 	{
 		"name": "Belarus",
@@ -326,9 +327,9 @@ Countries = [
 		},
 		"language": {
 			"code": "be",
-			"name": "Belarusian",
+			"name": "Belarusian"
 		},
-		"flag": "https://restcountries.eu/data/blr.svg",
+		"flag": "https://restcountries.eu/data/blr.svg"
 	},
 	{
 		"name": "Belgium",
@@ -342,9 +343,9 @@ Countries = [
 		},
 		"language": {
 			"code": "nl",
-			"name": "Dutch",
+			"name": "Dutch"
 		},
-		"flag": "https://restcountries.eu/data/bel.svg",
+		"flag": "https://restcountries.eu/data/bel.svg"
 	},
 	{
 		"name": "Belize",
@@ -358,9 +359,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/blz.svg",
+		"flag": "https://restcountries.eu/data/blz.svg"
 	},
 	{
 		"name": "Benin",
@@ -374,9 +375,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/ben.svg",
+		"flag": "https://restcountries.eu/data/ben.svg"
 	},
 	{
 		"name": "Bermuda",
@@ -390,9 +391,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/bmu.svg",
+		"flag": "https://restcountries.eu/data/bmu.svg"
 	},
 	{
 		"name": "Bhutan",
@@ -406,9 +407,9 @@ Countries = [
 		},
 		"language": {
 			"code": "dz",
-			"name": "Dzongkha",
+			"name": "Dzongkha"
 		},
-		"flag": "https://restcountries.eu/data/btn.svg",
+		"flag": "https://restcountries.eu/data/btn.svg"
 	},
 	{
 		"name": "Bolivia (Plurinational State of)",
@@ -422,9 +423,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/bol.svg",
+		"flag": "https://restcountries.eu/data/bol.svg"
 	},
 	{
 		"name": "Bonaire, Sint Eustatius and Saba",
@@ -438,9 +439,9 @@ Countries = [
 		},
 		"language": {
 			"code": "nl",
-			"name": "Dutch",
+			"name": "Dutch"
 		},
-		"flag": "https://restcountries.eu/data/bes.svg",
+		"flag": "https://restcountries.eu/data/bes.svg"
 	},
 	{
 		"name": "Bosnia and Herzegovina",
@@ -454,9 +455,9 @@ Countries = [
 		},
 		"language": {
 			"code": "bs",
-			"name": "Bosnian",
+			"name": "Bosnian"
 		},
-		"flag": "https://restcountries.eu/data/bih.svg",
+		"flag": "https://restcountries.eu/data/bih.svg"
 	},
 	{
 		"name": "Botswana",
@@ -470,9 +471,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/bwa.svg",
+		"flag": "https://restcountries.eu/data/bwa.svg"
 	},
 	{
 		"name": "Bouvet Island",
@@ -486,9 +487,9 @@ Countries = [
 		},
 		"language": {
 			"code": "no",
-			"name": "Norwegian",
+			"name": "Norwegian"
 		},
-		"flag": "https://restcountries.eu/data/bvt.svg",
+		"flag": "https://restcountries.eu/data/bvt.svg"
 	},
 	{
 		"name": "Brazil",
@@ -502,9 +503,9 @@ Countries = [
 		},
 		"language": {
 			"code": "pt",
-			"name": "Portuguese",
+			"name": "Portuguese"
 		},
-		"flag": "https://restcountries.eu/data/bra.svg",
+		"flag": "https://restcountries.eu/data/bra.svg"
 	},
 	{
 		"name": "British Indian Ocean Territory",
@@ -518,9 +519,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/iot.svg",
+		"flag": "https://restcountries.eu/data/iot.svg"
 	},
 	{
 		"name": "United States Minor Outlying Islands",
@@ -534,9 +535,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/umi.svg",
+		"flag": "https://restcountries.eu/data/umi.svg"
 	},
 	{
 		"name": "Virgin Islands (British)",
@@ -550,9 +551,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/vgb.svg",
+		"flag": "https://restcountries.eu/data/vgb.svg"
 	},
 	{
 		"name": "Virgin Islands (U.S.)",
@@ -566,9 +567,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/vir.svg",
+		"flag": "https://restcountries.eu/data/vir.svg"
 	},
 	{
 		"name": "Brunei Darussalam",
@@ -582,9 +583,9 @@ Countries = [
 		},
 		"language": {
 			"code": "ms",
-			"name": "Malay",
+			"name": "Malay"
 		},
-		"flag": "https://restcountries.eu/data/brn.svg",
+		"flag": "https://restcountries.eu/data/brn.svg"
 	},
 	{
 		"name": "Bulgaria",
@@ -598,9 +599,9 @@ Countries = [
 		},
 		"language": {
 			"code": "bg",
-			"name": "Bulgarian",
+			"name": "Bulgarian"
 		},
-		"flag": "https://restcountries.eu/data/bgr.svg",
+		"flag": "https://restcountries.eu/data/bgr.svg"
 	},
 	{
 		"name": "Burkina Faso",
@@ -614,9 +615,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/bfa.svg",
+		"flag": "https://restcountries.eu/data/bfa.svg"
 	},
 	{
 		"name": "Burundi",
@@ -630,9 +631,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/bdi.svg",
+		"flag": "https://restcountries.eu/data/bdi.svg"
 	},
 	{
 		"name": "Cambodia",
@@ -646,9 +647,9 @@ Countries = [
 		},
 		"language": {
 			"code": "km",
-			"name": "Khmer",
+			"name": "Khmer"
 		},
-		"flag": "https://restcountries.eu/data/khm.svg",
+		"flag": "https://restcountries.eu/data/khm.svg"
 	},
 	{
 		"name": "Cameroon",
@@ -662,9 +663,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/cmr.svg",
+		"flag": "https://restcountries.eu/data/cmr.svg"
 	},
 	{
 		"name": "Canada",
@@ -678,9 +679,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/can.svg",
+		"flag": "https://restcountries.eu/data/can.svg"
 	},
 	{
 		"name": "Cabo Verde",
@@ -698,7 +699,7 @@ Countries = [
 			"name": "Portuguese",
 			"nativeName": "Português"
 		},
-		"flag": "https://restcountries.eu/data/cpv.svg",
+		"flag": "https://restcountries.eu/data/cpv.svg"
 	},
 	{
 		"name": "Cayman Islands",
@@ -713,9 +714,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/cym.svg",
+		"flag": "https://restcountries.eu/data/cym.svg"
 	},
 	{
 		"name": "Central African Republic",
@@ -729,9 +730,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/caf.svg",
+		"flag": "https://restcountries.eu/data/caf.svg"
 	},
 	{
 		"name": "Chad",
@@ -745,9 +746,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/tcd.svg",
+		"flag": "https://restcountries.eu/data/tcd.svg"
 	},
 	{
 		"name": "Chile",
@@ -765,7 +766,7 @@ Countries = [
 			"name": "Spanish",
 			"nativeName": "Español"
 		},
-		"flag": "https://restcountries.eu/data/chl.svg",
+		"flag": "https://restcountries.eu/data/chl.svg"
 	},
 	{
 		"name": "China",
@@ -779,9 +780,9 @@ Countries = [
 		},
 		"language": {
 			"code": "zh",
-			"name": "Chinese",
+			"name": "Chinese"
 		},
-		"flag": "https://restcountries.eu/data/chn.svg",
+		"flag": "https://restcountries.eu/data/chn.svg"
 	},
 	{
 		"name": "Christmas Island",
@@ -795,9 +796,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/cxr.svg",
+		"flag": "https://restcountries.eu/data/cxr.svg"
 	},
 	{
 		"name": "Cocos (Keeling) Islands",
@@ -811,9 +812,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/cck.svg",
+		"flag": "https://restcountries.eu/data/cck.svg"
 	},
 	{
 		"name": "Colombia",
@@ -827,9 +828,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/col.svg",
+		"flag": "https://restcountries.eu/data/col.svg"
 	},
 	{
 		"name": "Comoros",
@@ -843,9 +844,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/com.svg",
+		"flag": "https://restcountries.eu/data/com.svg"
 	},
 	{
 		"name": "Congo",
@@ -859,9 +860,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/cog.svg",
+		"flag": "https://restcountries.eu/data/cog.svg"
 	},
 	{
 		"name": "Congo (Democratic Republic of the)",
@@ -875,9 +876,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/cod.svg",
+		"flag": "https://restcountries.eu/data/cod.svg"
 	},
 	{
 		"name": "Cook Islands",
@@ -891,9 +892,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/cok.svg",
+		"flag": "https://restcountries.eu/data/cok.svg"
 	},
 	{
 		"name": "Costa Rica",
@@ -907,9 +908,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/cri.svg",
+		"flag": "https://restcountries.eu/data/cri.svg"
 	},
 	{
 		"name": "Croatia",
@@ -923,9 +924,9 @@ Countries = [
 		},
 		"language": {
 			"code": "hr",
-			"name": "Croatian",
+			"name": "Croatian"
 		},
-		"flag": "https://restcountries.eu/data/hrv.svg",
+		"flag": "https://restcountries.eu/data/hrv.svg"
 	},
 	{
 		"name": "Cuba",
@@ -939,9 +940,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/cub.svg",
+		"flag": "https://restcountries.eu/data/cub.svg"
 	},
 	{
 		"name": "Curaçao",
@@ -955,9 +956,9 @@ Countries = [
 		},
 		"language": {
 			"code": "nl",
-			"name": "Dutch",
+			"name": "Dutch"
 		},
-		"flag": "https://restcountries.eu/data/cuw.svg",
+		"flag": "https://restcountries.eu/data/cuw.svg"
 	},
 	{
 		"name": "Cyprus",
@@ -971,9 +972,9 @@ Countries = [
 		},
 		"language": {
 			"code": "tr",
-			"name": "Turkish",
+			"name": "Turkish"
 		},
-		"flag": "https://restcountries.eu/data/cyp.svg",
+		"flag": "https://restcountries.eu/data/cyp.svg"
 	},
 	{
 		"name": "Czech Republic",
@@ -987,9 +988,9 @@ Countries = [
 		},
 		"language": {
 			"code": "cs",
-			"name": "Czech",
+			"name": "Czech"
 		},
-		"flag": "https://restcountries.eu/data/cze.svg",
+		"flag": "https://restcountries.eu/data/cze.svg"
 	},
 	{
 		"name": "Denmark",
@@ -1003,9 +1004,9 @@ Countries = [
 		},
 		"language": {
 			"code": "da",
-			"name": "Danish",
+			"name": "Danish"
 		},
-		"flag": "https://restcountries.eu/data/dnk.svg",
+		"flag": "https://restcountries.eu/data/dnk.svg"
 	},
 	{
 		"name": "Djibouti",
@@ -1019,9 +1020,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/dji.svg",
+		"flag": "https://restcountries.eu/data/dji.svg"
 	},
 	{
 		"name": "Dominica",
@@ -1035,9 +1036,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/dma.svg",
+		"flag": "https://restcountries.eu/data/dma.svg"
 	},
 	{
 		"name": "Dominican Republic",
@@ -1051,9 +1052,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/dom.svg",
+		"flag": "https://restcountries.eu/data/dom.svg"
 	},
 	{
 		"name": "Ecuador",
@@ -1067,9 +1068,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/ecu.svg",
+		"flag": "https://restcountries.eu/data/ecu.svg"
 	},
 	{
 		"name": "Egypt",
@@ -1083,9 +1084,9 @@ Countries = [
 		},
 		"language": {
 			"code": "ar",
-			"name": "Arabic",
+			"name": "Arabic"
 		},
-		"flag": "https://restcountries.eu/data/egy.svg",
+		"flag": "https://restcountries.eu/data/egy.svg"
 	},
 	{
 		"name": "El Salvador",
@@ -1099,9 +1100,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/slv.svg",
+		"flag": "https://restcountries.eu/data/slv.svg"
 	},
 	{
 		"name": "Equatorial Guinea",
@@ -1119,7 +1120,7 @@ Countries = [
 			"name": "Spanish",
 			"nativeName": "Español"
 		},
-		"flag": "https://restcountries.eu/data/gnq.svg",
+		"flag": "https://restcountries.eu/data/gnq.svg"
 	},
 	{
 		"name": "Eritrea",
@@ -1133,9 +1134,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/eri.svg",
+		"flag": "https://restcountries.eu/data/eri.svg"
 	},
 	{
 		"name": "Estonia",
@@ -1149,9 +1150,9 @@ Countries = [
 		},
 		"language": {
 			"code": "et",
-			"name": "Estonian",
+			"name": "Estonian"
 		},
-		"flag": "https://restcountries.eu/data/est.svg",
+		"flag": "https://restcountries.eu/data/est.svg"
 	},
 	{
 		"name": "Ethiopia",
@@ -1165,9 +1166,9 @@ Countries = [
 		},
 		"language": {
 			"code": "am",
-			"name": "Amharic",
+			"name": "Amharic"
 		},
-		"flag": "https://restcountries.eu/data/eth.svg",
+		"flag": "https://restcountries.eu/data/eth.svg"
 	},
 	{
 		"name": "Falkland Islands (Malvinas)",
@@ -1181,9 +1182,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/flk.svg",
+		"flag": "https://restcountries.eu/data/flk.svg"
 	},
 	{
 		"name": "Faroe Islands",
@@ -1197,9 +1198,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fo",
-			"name": "Faroese",
+			"name": "Faroese"
 		},
-		"flag": "https://restcountries.eu/data/fro.svg",
+		"flag": "https://restcountries.eu/data/fro.svg"
 	},
 	{
 		"name": "Fiji",
@@ -1213,9 +1214,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/fji.svg",
+		"flag": "https://restcountries.eu/data/fji.svg"
 	},
 	{
 		"name": "Finland",
@@ -1233,7 +1234,7 @@ Countries = [
 			"name": "Finnish",
 			"nativeName": "suomi"
 		},
-		"flag": "https://restcountries.eu/data/fin.svg",
+		"flag": "https://restcountries.eu/data/fin.svg"
 	},
 	{
 		"name": "France",
@@ -1248,9 +1249,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/fra.svg",
+		"flag": "https://restcountries.eu/data/fra.svg"
 	},
 	{
 		"name": "French Guiana",
@@ -1264,9 +1265,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/guf.svg",
+		"flag": "https://restcountries.eu/data/guf.svg"
 	},
 	{
 		"name": "French Polynesia",
@@ -1280,9 +1281,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/pyf.svg",
+		"flag": "https://restcountries.eu/data/pyf.svg"
 	},
 	{
 		"name": "French Southern Territories",
@@ -1296,9 +1297,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/atf.svg",
+		"flag": "https://restcountries.eu/data/atf.svg"
 	},
 	{
 		"name": "Gabon",
@@ -1312,9 +1313,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/gab.svg",
+		"flag": "https://restcountries.eu/data/gab.svg"
 	},
 	{
 		"name": "Gambia",
@@ -1328,9 +1329,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/gmb.svg",
+		"flag": "https://restcountries.eu/data/gmb.svg"
 	},
 	{
 		"name": "Georgia",
@@ -1344,9 +1345,9 @@ Countries = [
 		},
 		"language": {
 			"code": "ka",
-			"name": "Georgian",
+			"name": "Georgian"
 		},
-		"flag": "https://restcountries.eu/data/geo.svg",
+		"flag": "https://restcountries.eu/data/geo.svg"
 	},
 	{
 		"name": "Germany",
@@ -1360,9 +1361,9 @@ Countries = [
 		},
 		"language": {
 			"code": "de",
-			"name": "German",
+			"name": "German"
 		},
-		"flag": "https://restcountries.eu/data/deu.svg",
+		"flag": "https://restcountries.eu/data/deu.svg"
 	},
 	{
 		"name": "Ghana",
@@ -1376,9 +1377,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/gha.svg",
+		"flag": "https://restcountries.eu/data/gha.svg"
 	},
 	{
 		"name": "Gibraltar",
@@ -1392,9 +1393,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/gib.svg",
+		"flag": "https://restcountries.eu/data/gib.svg"
 	},
 	{
 		"name": "Greece",
@@ -1408,9 +1409,9 @@ Countries = [
 		},
 		"language": {
 			"code": "el",
-			"name": "Greek (modern)",		
+			"name": "Greek (modern)"		
 		},
-		"flag": "https://restcountries.eu/data/grc.svg",
+		"flag": "https://restcountries.eu/data/grc.svg"
 	},
 	{
 		"name": "Greenland",
@@ -1424,9 +1425,9 @@ Countries = [
 		},
 		"language": {
 			"code": "kl",
-			"name": "Kalaallisut",
+			"name": "Kalaallisut"
 		},
-		"flag": "https://restcountries.eu/data/grl.svg",
+		"flag": "https://restcountries.eu/data/grl.svg"
 	},
 	{
 		"name": "Grenada",
@@ -1440,9 +1441,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/grd.svg",
+		"flag": "https://restcountries.eu/data/grd.svg"
 	},
 	{
 		"name": "Guadeloupe",
@@ -1456,9 +1457,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/glp.svg",
+		"flag": "https://restcountries.eu/data/glp.svg"
 	},
 	{
 		"name": "Guam",
@@ -1472,9 +1473,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/gum.svg",
+		"flag": "https://restcountries.eu/data/gum.svg"
 	},
 	{
 		"name": "Guatemala",
@@ -1488,9 +1489,9 @@ Countries = [
 		},
 		"language": {
 			"code": "es",
-			"name": "Spanish",
+			"name": "Spanish"
 		},
-		"flag": "https://restcountries.eu/data/gtm.svg",
+		"flag": "https://restcountries.eu/data/gtm.svg"
 	},
 	{
 		"name": "Guernsey",
@@ -1504,9 +1505,9 @@ Countries = [
 		},
 		"language": {
 			"code": "en",
-			"name": "English",
+			"name": "English"
 		},
-		"flag": "https://restcountries.eu/data/ggy.svg",
+		"flag": "https://restcountries.eu/data/ggy.svg"
 	},
 	{
 		"name": "Guinea",
@@ -1520,9 +1521,9 @@ Countries = [
 		},
 		"language": {
 			"code": "fr",
-			"name": "French",
+			"name": "French"
 		},
-		"flag": "https://restcountries.eu/data/gin.svg",
+		"flag": "https://restcountries.eu/data/gin.svg"
 	},
 	{
 		"name": "Guinea-Bissau",
@@ -1536,7 +1537,7 @@ Countries = [
 		},
       	"language": {
             "code": "pt",
-            "name": "Portuguese",
+            "name": "Portuguese"
 		},
       	"flag": "https://restcountries.eu/data/gnb.svg"
    	},
@@ -1552,7 +1553,7 @@ Countries = [
 		},
 		"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
 		},
       	"flag": "https://restcountries.eu/data/guy.svg"
    	},
@@ -1568,7 +1569,7 @@ Countries = [
 		},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/hti.svg"
    	},
@@ -1584,7 +1585,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/hmd.svg"
    	},
@@ -1600,7 +1601,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/vat.svg"
    	},
@@ -1616,7 +1617,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/hnd.svg"
    	},
@@ -1632,7 +1633,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
   		"flag": "https://restcountries.eu/data/hkg.svg"
    	},
@@ -1648,7 +1649,7 @@ Countries = [
      	},
       	"language": {
             "code": "hu",
-            "name": "Hungarian",
+            "name": "Hungarian"
      	},
       	"flag": "https://restcountries.eu/data/hun.svg"
    	},
@@ -1664,7 +1665,7 @@ Countries = [
      	},
       	"language": {
             "code": "is",
-            "name": "Icelandic",
+            "name": "Icelandic"
     	},
       	"flag": "https://restcountries.eu/data/isl.svg"
    	},
@@ -1680,7 +1681,7 @@ Countries = [
      	},
       	"language": {
             "code": "hi",
-            "name": "Hindi",
+            "name": "Hindi"
      	},
       	"flag": "https://restcountries.eu/data/ind.svg"
    	},
@@ -1696,7 +1697,7 @@ Countries = [
      	},
       	"language": {
             "code": "id",
-            "name": "Indonesian",
+            "name": "Indonesian"
      	},
       	"flag": "https://restcountries.eu/data/idn.svg"
    	},
@@ -1712,7 +1713,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/civ.svg"
    	},
@@ -1728,7 +1729,7 @@ Countries = [
      	},
       	"language": {
             "code": "fa",
-            "name": "Persian (Farsi)",
+            "name": "Persian (Farsi)"
      	},
       	"flag": "https://restcountries.eu/data/irn.svg"
    	},
@@ -1744,7 +1745,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
          },
       	"flag": "https://restcountries.eu/data/irq.svg"
    	},
@@ -1760,7 +1761,7 @@ Countries = [
      	},
      	"language": {
             "code": "ga",
-            "name": "Irish",
+            "name": "Irish"
          },
       	"flag": "https://restcountries.eu/data/irl.svg"
    	},
@@ -1776,7 +1777,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
 		},
       	"flag": "https://restcountries.eu/data/imn.svg"
    	},
@@ -1792,7 +1793,7 @@ Countries = [
      	},
       	"language": {
             "code": "he",
-            "name": "Hebrew (modern)",
+            "name": "Hebrew (modern)"
          },
       	"flag": "https://restcountries.eu/data/isr.svg"
    	},
@@ -1808,7 +1809,7 @@ Countries = [
      	},
       	"language": {
             "code": "it",
-            "name": "Italian",
+            "name": "Italian"
      	},
       	"flag": "https://restcountries.eu/data/ita.svg"
    },
@@ -1824,7 +1825,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/jam.svg"
    	},
@@ -1840,7 +1841,7 @@ Countries = [
      	},
       	"language": {
             "code": "ja",
-            "name": "Japanese",
+            "name": "Japanese"
      	},
       	"flag": "https://restcountries.eu/data/jpn.svg"
    	},
@@ -1874,7 +1875,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/jor.svg"
    	},
@@ -1890,7 +1891,7 @@ Countries = [
      	},
       	"language": {
             "code": "kk",
-            "name": "Kazakh",
+            "name": "Kazakh"
      	},
       	"flag": "https://restcountries.eu/data/kaz.svg"
    	},
@@ -1906,7 +1907,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/ken.svg"
    	},
@@ -1922,7 +1923,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/kir.svg"
    	},
@@ -1938,7 +1939,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/kwt.svg"
    	},
@@ -1954,7 +1955,7 @@ Countries = [
      	},
       	"language": {
             "code": "ky",
-            "name": "Kyrgyz",
+            "name": "Kyrgyz"
      	},
       	"flag": "https://restcountries.eu/data/kgz.svg"
    	},
@@ -1970,7 +1971,7 @@ Countries = [
      	},
       	"language": {
             "code": "lo",
-            "name": "Lao",
+            "name": "Lao"
      	},
       	"flag": "https://restcountries.eu/data/lao.svg"
    	},
@@ -1986,7 +1987,7 @@ Countries = [
      	},
       	"language": {
             "code": "lv",
-            "name": "Latvian",
+            "name": "Latvian"
      	},
       	"flag": "https://restcountries.eu/data/lva.svg"
    	},
@@ -2002,7 +2003,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
          },
   		"flag": "https://restcountries.eu/data/lbn.svg"
    	},
@@ -2018,7 +2019,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/lso.svg"
    	},
@@ -2034,7 +2035,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/lbr.svg"
    	},
@@ -2050,7 +2051,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/lby.svg"
    	},
@@ -2066,7 +2067,7 @@ Countries = [
      	},
       	"language": {
             "code": "de",
-            "name": "German",
+            "name": "German"
      	},
       	"flag": "https://restcountries.eu/data/lie.svg"
    	},
@@ -2082,7 +2083,7 @@ Countries = [
      	},
       	"language": {
             "code": "lt",
-            "name": "Lithuanian",
+            "name": "Lithuanian"
      	},
       	"flag": "https://restcountries.eu/data/ltu.svg"
    	},
@@ -2098,7 +2099,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/lux.svg"
    	},
@@ -2114,7 +2115,7 @@ Countries = [
      	},
       	"language": {
             "code": "zh",
-            "name": "Chinese",
+            "name": "Chinese"
      	},
       	"flag": "https://restcountries.eu/data/mac.svg"
    	},
@@ -2130,7 +2131,7 @@ Countries = [
      	},
       	"language": {
             "code": "mk",
-            "name": "Macedonian",
+            "name": "Macedonian"
      	},
       	"flag": "https://restcountries.eu/data/mkd.svg"
    	},
@@ -2146,7 +2147,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/mdg.svg"
    	},
@@ -2162,7 +2163,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/mwi.svg"
    	},
@@ -2178,7 +2179,7 @@ Countries = [
      	},
       	"language": {
             "code": null,
-            "name": "Malaysian",
+            "name": "Malaysian"
      	},
   	"flag": "https://restcountries.eu/data/mys.svg"
    	},
@@ -2194,7 +2195,7 @@ Countries = [
      	},
       	"language": {
             "code": "dv",
-            "name": "Divehi",
+            "name": "Divehi"
      	},
       	"flag": "https://restcountries.eu/data/mdv.svg"
    	},
@@ -2210,7 +2211,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/mli.svg"
    	},
@@ -2226,7 +2227,7 @@ Countries = [
      	},
       	"language": {
             "code": "mt",
-            "name": "Maltese",
+            "name": "Maltese"
      	},
       	"flag": "https://restcountries.eu/data/mlt.svg"
    	},
@@ -2242,7 +2243,7 @@ Countries = [
      	},
   		"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/mhl.svg"
    	},
@@ -2258,7 +2259,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/mtq.svg"
    	},
@@ -2274,7 +2275,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/mrt.svg"
    	},
@@ -2290,7 +2291,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/mus.svg"
    	},
@@ -2306,7 +2307,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/myt.svg"
    	},
@@ -2322,7 +2323,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/mex.svg"
    	},
@@ -2338,7 +2339,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/fsm.svg"
    	},
@@ -2354,7 +2355,7 @@ Countries = [
      	},
       	"language": {
             "code": "ro",
-            "name": "Romanian",
+            "name": "Romanian"
      	},
       	"flag": "https://restcountries.eu/data/mda.svg"
    	},
@@ -2370,7 +2371,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/mco.svg"
    	},
@@ -2386,7 +2387,7 @@ Countries = [
      	},
       	"language": {
             "code": "mn",
-            "name": "Mongolian",
+            "name": "Mongolian"
      	},
       	"flag": "https://restcountries.eu/data/mng.svg"
    	},
@@ -2402,7 +2403,7 @@ Countries = [
      	},
       	"language": {
             "code": "sr",
-            "name": "Serbian",
+            "name": "Serbian"
 	    },
      	"flag": "https://restcountries.eu/data/mne.svg"
    	},
@@ -2418,7 +2419,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/msr.svg"
    	},
@@ -2434,7 +2435,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/mar.svg"
    	},
@@ -2450,7 +2451,7 @@ Countries = [
      	},
       	"language": {
             "code": "pt",
-            "name": "Portuguese",
+            "name": "Portuguese"
      	},
       	"flag": "https://restcountries.eu/data/moz.svg"
    	},
@@ -2466,7 +2467,7 @@ Countries = [
      	},
       	"language": {
             "code": "my",
-            "name": "Burmese",
+            "name": "Burmese"
      	},
       	"flag": "https://restcountries.eu/data/mmr.svg"
    	},
@@ -2482,7 +2483,7 @@ Countries = [
          },
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/nam.svg"
    	},
@@ -2498,7 +2499,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
          },
       	"flag": "https://restcountries.eu/data/nru.svg"
    	},
@@ -2514,7 +2515,7 @@ Countries = [
      	},
       	"language": {
             "code": "ne",
-            "name": "Nepali",
+            "name": "Nepali"
      	},
       	"flag": "https://restcountries.eu/data/npl.svg"
    	},
@@ -2530,7 +2531,7 @@ Countries = [
      	},
       	"language": {
             "code": "nl",
-            "name": "Dutch",
+            "name": "Dutch"
      	},
       	"flag": "https://restcountries.eu/data/nld.svg"
    	},
@@ -2546,7 +2547,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/ncl.svg"
    	},
@@ -2562,7 +2563,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/nzl.svg"
    },
@@ -2578,7 +2579,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/nic.svg"
 	},
@@ -2594,7 +2595,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/ner.svg"
    	},
@@ -2610,7 +2611,7 @@ Countries = [
  		},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/nga.svg"
    	},
@@ -2626,7 +2627,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/niu.svg"
    	},
@@ -2642,7 +2643,7 @@ Countries = [
     	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/nfk.svg"
    	},
@@ -2658,7 +2659,7 @@ Countries = [
      	},
       	"language": {
             "code": "ko",
-            "name": "Korean",
+            "name": "Korean"
      	},
       	"flag": "https://restcountries.eu/data/prk.svg"
    	},
@@ -2674,7 +2675,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/mnp.svg"
    	},
@@ -2690,7 +2691,7 @@ Countries = [
      	},
       	"language": {
             "code": "no",
-            "name": "Norwegian",
+            "name": "Norwegian"
      	},
       	"flag": "https://restcountries.eu/data/nor.svg"
    	},
@@ -2706,7 +2707,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/omn.svg"
    	},
@@ -2722,7 +2723,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/pak.svg"
    	},
@@ -2738,7 +2739,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/plw.svg"
    	},
@@ -2754,7 +2755,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/pse.svg"
    	},
@@ -2770,7 +2771,7 @@ Countries = [
     	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/pan.svg"
    	},
@@ -2786,7 +2787,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/png.svg"
    	},
@@ -2802,7 +2803,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/pry.svg"
    	},
@@ -2818,7 +2819,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/per.svg"
    	},
@@ -2834,7 +2835,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/phl.svg"
    	},
@@ -2850,7 +2851,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/pcn.svg"
    	},
@@ -2866,7 +2867,7 @@ Countries = [
      	},
       	"language": {
             "code": "pl",
-            "name": "Polish",
+            "name": "Polish"
      	},
       	"flag": "https://restcountries.eu/data/pol.svg"
    	},
@@ -2882,7 +2883,7 @@ Countries = [
      	},
       	"language": {
             "code": "pt",
-            "name": "Portuguese",
+            "name": "Portuguese"
      	},
       	"flag": "https://restcountries.eu/data/prt.svg"
    	},
@@ -2898,7 +2899,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/pri.svg"
    	},
@@ -2914,7 +2915,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/qat.svg"
    	},
@@ -2930,7 +2931,7 @@ Countries = [
      	},
       	"language": {
             "code": "sq",
-            "name": "Albanian",
+            "name": "Albanian"
          },
       	"flag": "https://restcountries.eu/data/kos.svg"
    	},
@@ -2946,7 +2947,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
          },
       	"flag": "https://restcountries.eu/data/reu.svg"
    	},
@@ -2962,7 +2963,7 @@ Countries = [
      	},
       	"language": {
             "code": "ro",
-            "name": "Romanian",
+            "name": "Romanian"
      	},
       	"flag": "https://restcountries.eu/data/rou.svg"
    	},
@@ -2978,7 +2979,7 @@ Countries = [
      	},
       	"language": {
             "code": "ru",
-            "name": "Russian",
+            "name": "Russian"
      	},
       	"flag": "https://restcountries.eu/data/rus.svg"
    	},
@@ -2994,7 +2995,7 @@ Countries = [
      	},
       	"language": {
             "code": "rw",
-            "name": "Kinyarwanda",
+            "name": "Kinyarwanda"
          },
       	"flag": "https://restcountries.eu/data/rwa.svg"
    	},
@@ -3010,7 +3011,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/blm.svg"
    	},
@@ -3026,7 +3027,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/shn.svg"
    	},
@@ -3042,7 +3043,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/kna.svg"
    	},
@@ -3058,7 +3059,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/lca.svg"
    	},
@@ -3074,7 +3075,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/maf.svg"
    	},
@@ -3090,7 +3091,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/spm.svg"
    	},
@@ -3106,7 +3107,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/vct.svg"
    	},
@@ -3122,7 +3123,7 @@ Countries = [
      	},
       	"language": {
             "code": "sm",
-            "name": "Samoan",
+            "name": "Samoan"
      	},
       	"flag": "https://restcountries.eu/data/wsm.svg"
    	},
@@ -3138,7 +3139,7 @@ Countries = [
      	},
       	"language": {
             "code": "it",
-            "name": "Italian",
+            "name": "Italian"
      	},
       	"flag": "https://restcountries.eu/data/smr.svg"
    	},
@@ -3154,7 +3155,7 @@ Countries = [
      	},
       	"language": {
             "code": "pt",
-            "name": "Portuguese",
+            "name": "Portuguese"
      	},
       	"flag": "https://restcountries.eu/data/stp.svg"
    	},
@@ -3170,7 +3171,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/sau.svg"
    	},
@@ -3186,7 +3187,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/sen.svg"
    	},
@@ -3202,7 +3203,7 @@ Countries = [
      	},
       	"language": {
             "code": "sr",
-            "name": "Serbian",
+            "name": "Serbian"
      	},
       	"flag": "https://restcountries.eu/data/srb.svg"
    	},
@@ -3218,7 +3219,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/syc.svg"
    	},
@@ -3234,7 +3235,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/sle.svg"
    	},
@@ -3250,7 +3251,7 @@ Countries = [
          },
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/sgp.svg"
    	},
@@ -3266,7 +3267,7 @@ Countries = [
      	},
       	"language": {
             "code": "nl",
-            "name": "Dutch",
+            "name": "Dutch"
      	},
       	"flag": "https://restcountries.eu/data/sxm.svg"
    	},
@@ -3282,7 +3283,7 @@ Countries = [
      	},
       	"language": {
             "code": "sk",
-            "name": "Slovak",
+            "name": "Slovak"
      	},
       	"flag": "https://restcountries.eu/data/svk.svg"
    	},
@@ -3298,7 +3299,7 @@ Countries = [
      	},
       	"language": {
             "code": "sl",
-            "name": "Slovene",
+            "name": "Slovene"
      	},
       	"flag": "https://restcountries.eu/data/svn.svg"
    	},
@@ -3314,7 +3315,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/slb.svg"
    	},
@@ -3330,7 +3331,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/som.svg"
    	},
@@ -3364,7 +3365,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/sgs.svg"
    	},
@@ -3380,7 +3381,7 @@ Countries = [
      	},
       	"language": {
             "code": "ko",
-            "name": "Korean",
+            "name": "Korean"
      	},
       	"flag": "https://restcountries.eu/data/kor.svg"
    	},
@@ -3396,7 +3397,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/ssd.svg"
    	},
@@ -3412,7 +3413,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/esp.svg"
    	},
@@ -3446,7 +3447,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/sdn.svg"
    	},
@@ -3462,7 +3463,7 @@ Countries = [
      	},
       	"language": {
             "code": "nl",
-            "name": "Dutch",
+            "name": "Dutch"
      	},
       	"flag": "https://restcountries.eu/data/sur.svg"
    	},
@@ -3478,7 +3479,7 @@ Countries = [
      	},
       	"language": {
             "code": "no",
-            "name": "Norwegian",
+            "name": "Norwegian"
  		},
       	"flag": "https://restcountries.eu/data/sjm.svg"
    	},
@@ -3494,7 +3495,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/swz.svg"
    	},
@@ -3510,7 +3511,7 @@ Countries = [
      	},
       	"language": {
             "code": "sv",
-            "name": "Swedish",
+            "name": "Swedish"
      	},
       	"flag": "https://restcountries.eu/data/swe.svg"
    	},
@@ -3526,7 +3527,7 @@ Countries = [
      	},
       	"language": {
             "code": "de",
-            "name": "German",
+            "name": "German"
          },
       	"flag": "https://restcountries.eu/data/che.svg"
    	},
@@ -3542,7 +3543,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/syr.svg"
    	},
@@ -3558,7 +3559,7 @@ Countries = [
      	},
       	"language": {
             "code": "zh",
-            "name": "Chinese",
+            "name": "Chinese"
      	},
       	"flag": "https://restcountries.eu/data/twn.svg"
    	},
@@ -3574,7 +3575,7 @@ Countries = [
      	},
       	"language": {
             "code": "tg",
-            "name": "Tajik",
+            "name": "Tajik"
      	},
       	"flag": "https://restcountries.eu/data/tjk.svg"
    	},
@@ -3590,7 +3591,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
          },
       	"flag": "https://restcountries.eu/data/tza.svg"
    	},
@@ -3606,7 +3607,7 @@ Countries = [
      	},
       	"language": {
             "code": "th",
-            "name": "Thai",
+            "name": "Thai"
      	},
       	"flag": "https://restcountries.eu/data/tha.svg"
    	},
@@ -3622,7 +3623,7 @@ Countries = [
      	},
       	"language": {
             "code": "pt",
-            "name": "Portuguese",
+            "name": "Portuguese"
      	},
       	"flag": "https://restcountries.eu/data/tls.svg"
    	},
@@ -3638,7 +3639,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/tgo.svg"
    	},
@@ -3654,7 +3655,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/tkl.svg"
    	},
@@ -3670,7 +3671,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/ton.svg"
    	},
@@ -3686,7 +3687,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/tto.svg"
    	},
@@ -3702,7 +3703,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/tun.svg"
    	},
@@ -3718,7 +3719,7 @@ Countries = [
      	},
       	"language": {
             "code": "tr",
-            "name": "Turkish",
+            "name": "Turkish"
      	},
       	"flag": "https://restcountries.eu/data/tur.svg"
    	},
@@ -3734,7 +3735,7 @@ Countries = [
      	},
       	"language": {
             "code": "tk",
-            "name": "Turkmen",
+            "name": "Turkmen"
      	},
       	"flag": "https://restcountries.eu/data/tkm.svg"
    	},
@@ -3750,7 +3751,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/tca.svg"
    	},
@@ -3766,7 +3767,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/tuv.svg"
    	},
@@ -3782,7 +3783,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
          },
       	"flag": "https://restcountries.eu/data/uga.svg"
    	},
@@ -3798,7 +3799,7 @@ Countries = [
      	},
       	"language": {
             "code": "uk",
-            "name": "Ukrainian",
+            "name": "Ukrainian"
      	},
       	"flag": "https://restcountries.eu/data/ukr.svg"
    	},
@@ -3814,7 +3815,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/are.svg"
    	},
@@ -3830,7 +3831,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/gbr.svg"
    	},
@@ -3864,7 +3865,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/ury.svg"
    	},
@@ -3880,7 +3881,7 @@ Countries = [
      	},
       	"language": {
             "code": "uz",
-            "name": "Uzbek",
+            "name": "Uzbek"
      	},
       	"flag": "https://restcountries.eu/data/uzb.svg"
    	},
@@ -3896,7 +3897,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/vut.svg"
    	},
@@ -3912,7 +3913,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/ven.svg"
    	},
@@ -3928,7 +3929,7 @@ Countries = [
      	},
       	"language": {
             "code": "vi",
-            "name": "Vietnamese",
+            "name": "Vietnamese"
      	},
       	"flag": "https://restcountries.eu/data/vnm.svg"
    	},
@@ -3944,7 +3945,7 @@ Countries = [
      	},
       	"language": {
             "code": "fr",
-            "name": "French",
+            "name": "French"
      	},
       	"flag": "https://restcountries.eu/data/wlf.svg"
    	},
@@ -3960,7 +3961,7 @@ Countries = [
      	},
       	"language": {
             "code": "es",
-            "name": "Spanish",
+            "name": "Spanish"
      	},
       	"flag": "https://restcountries.eu/data/esh.svg"
    	},
@@ -3976,7 +3977,7 @@ Countries = [
      	},
       	"language": {
             "code": "ar",
-            "name": "Arabic",
+            "name": "Arabic"
      	},
       	"flag": "https://restcountries.eu/data/yem.svg"
    	},
@@ -3992,7 +3993,7 @@ Countries = [
      	},
       	"language": {
             "code": "en",
-            "name": "English",
+            "name": "English"
      	},
       	"flag": "https://restcountries.eu/data/zmb.svg"
    	},
@@ -4014,4 +4015,6 @@ Countries = [
      	},
       	"flag": "https://restcountries.eu/data/zwe.svg"
    	}
-];
+
+        ]    
+}
